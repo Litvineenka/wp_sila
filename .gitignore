@@ -1,0 +1,44 @@
+
+### `.gitignore`
+
+# Django #
+*.log
+*.pot
+*.pyc
+__pycache__/
+db.sqlite3
+media/
+wpusername.tmp
+wp_sila/
+
+# Environments #
+.env
+.vscode/
+.idea/
+.DS_Store
+
+# Virtual environments #
+venv/
+.env/
+.venv/
+
+# Node modules #
+node_modules/
+npm-debug.log
+
+# PyCharm #
+.idea/
+
+# Sublime Text #
+*.sublime-project
+*.sublime-workspace
+
+# Jupyter Notebook #
+.ipynb_checkpoints
+
+# macOS #
+.DS_Store
+
+# Windows #
+Thumbs.db
+ehthumbs.db
