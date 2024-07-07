@@ -1,12 +1,8 @@
-<style>
-    red {
-        color: #a93434;
-    }
-</style>
-
 # WP_Sila - WordPress Brute Force Tool
 
 This tool attempts to brute force WordPress login credentials by trying multiple username and password combinations. It is intended for educational purposes only.
+
+<b>Tool being created, operation not guaranteed. </b>
 
 ## Requirements
 
@@ -63,10 +59,10 @@ License
 
 ## Important Notes ⚠️
 
-<b><red>This tool should only be used on websites you own or have explicit permission to test.
-Unauthorized use of this tool may violate terms of service and laws.</red></b>
+<b>This tool should only be used on websites you own or have explicit permission to test.
+Unauthorized use of this tool may violate terms of service and laws.</b>
 
-<b><red>This tool is for educational purposes only. The author is not responsible for any misuse or damage caused by this tool.</red></b>
+<b>This tool is for educational purposes only. The author is not responsible for any misuse or damage caused by this tool.</b>
 
 <i>This project is licensed under the MIT License. See the LICENSE file for details.</i>
 
